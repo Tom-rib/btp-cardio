@@ -1,0 +1,4 @@
+find tmp/ -name "*md"
+find /app -mmin -120
+find tmp/ -name "*.txt" -exec ls -lS {} \;
+find tmp/ -name "*old*" -exec rm -i {} \;
