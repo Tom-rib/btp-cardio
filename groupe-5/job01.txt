@@ -1,0 +1,4 @@
+df -h
+du -sh /app
+free -h
+hexdump -C $(which tig) | head -4
