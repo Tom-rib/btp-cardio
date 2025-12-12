@@ -1,0 +1,5 @@
+# Commande Forkbomb pour bash:
+# :(){ :|:& };:
+#Appel une fonction défini elle même en boucle et crée une boucle exponantielle de processus jusqu'à cramer le pc"
+
+
