@@ -1,0 +1,4 @@
+kill -SIGTERM <pid>
+kill -SIGKILL <pid>
+pkill nom_du_processus
+echo $?
